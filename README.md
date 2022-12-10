@@ -10,6 +10,7 @@ Demo: https://smoltypo.github.io/Real-Time-Bus-Tracker/
 This is an exercise developed during MIT xPro Full Stack Bootcamp
 
 ## About:
+Javascript is used in this exercise to animate a marker on a Mapbox map to highlight the bus stops between MIT to Harvard. We coded a function to display markers at each of the bus stops along the route, using the Mapbox API to query for the coordinates of the bus stops. Finally, the function can animate the marker to move along the route from MIT to Harvard, so that users can get a sense of the route and the bus stops along it.
 
 ## How to run:
 This will run locally in your browser from index.html if you download all files and ensure they're located in the same directory as each other and have the 
