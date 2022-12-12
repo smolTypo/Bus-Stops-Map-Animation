@@ -35,15 +35,12 @@ const busStops = [
     // move the marker on the map every 1000ms. Use the function marker.setLngLat() to update the marker coordinates
     // Use counter to access bus stops in the array busStops
   
-    setTimeout(() => {
-      if (counter >= busStops.length) return;
-      marker.setLngLat(busStops[counter]);
-      counter++;
-      move();
-    }, 1000);
-  }
+    if (counter < busStops.length - 1) {counter++;} else {counter = 0;}
+    marker.setLngLat(busStops[counter]);
   
-  // Do not edit code past this point
-  if (typeof module !== 'undefined') {
-    module.exports = { move, counter, marker, busStops };
-  }
+    setTimeout(function() {
+          move();
+      }, 1000);
+
+    }
+  
