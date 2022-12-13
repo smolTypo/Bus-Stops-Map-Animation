@@ -4,7 +4,7 @@
 
 Using the MBTA bus data to determine stops between Harvard and MIT. An animated marker was added on the map to highlight the bus routes.
 
-Demo: https://smoltypo.github.io/Real-Time-Bus-Tracker/
+Demo: https://smoltypo.github.io/Bus-Stops-Map-Animation/
 
 
 This is an exercise developed during MIT xPro Full Stack Bootcamp
