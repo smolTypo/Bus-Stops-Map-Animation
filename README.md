@@ -1,4 +1,4 @@
-# Real Time Bus Tracker
+# Bus Stops Map- Animation
 
 <img src="https://github.com/smolTypo/Real-Time-Bus-Tracker/blob/main/busTracker.png?raw=true" width='400'>
 
