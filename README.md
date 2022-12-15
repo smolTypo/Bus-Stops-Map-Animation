@@ -1,6 +1,6 @@
 # Bus Stops Map- Animation
 
-<img src="https://github.com/smolTypo/Real-Time-Bus-Tracker/blob/main/busTracker.png?raw=true" width='400'>
+<img src="https://github.com/smolTypo/Bus-Stops-Map-Animation/blob/main/busTracker.png" width='400'>
 
 Using the MBTA bus data to determine stops between Harvard and MIT. An animated marker was added on the map to highlight the bus routes.
 
